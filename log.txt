@@ -1,14 +1,27 @@
-2022-10-22 17:32:09.585915: Got from rest endpoint: ≈катерина777
-2022-10-22 17:32:09.713985: Got from soap endpoint: 0JXQutCw0YLQtdGA0LjQvdCwNzc3Ok9FRHdma3Fh
+2022-10-22 17:48:45.855808: User provided input: input
+2022-10-22 17:48:45.956577: Got from rest endpoint: input777
+2022-10-22 17:48:46.072246: Got from soap endpoint: aW5wdXQ3Nzc6TXdtZVZqbHA=
 
-2022-10-22 17:32:10.305914: Current DB state:
-2022-10-22 17:32:10.346005: date: 2022-10-22 10:32:10, value: 0JXQutCw0YLQtdGA0LjQvdCwNzc3Ok9FRHdma3Fh
+2022-10-22 17:48:46.609465: Current DB state:
+2022-10-22 17:48:46.648362: date: 2022-10-22 10:48:46, value: aW5wdXQ3Nzc6TXdtZVZqbHA=
 
-2022-10-22 17:32:22.928989: Got from rest endpoint: тестовое777
-2022-10-22 17:32:23.017946: Got from soap endpoint: 0YLQtdGB0YLQvtCy0L7QtTc3NzpXbWR2cW9rTA==
+2022-10-22 17:48:51.775549: User provided input: ≈катерина
+2022-10-22 17:48:51.945954: Got from rest endpoint: ≈катерина777
+2022-10-22 17:48:52.129170: Got from soap endpoint: 0JXQutCw0YLQtdGA0LjQvdCwNzc3OmVVR2ZXYnlZ
 
-2022-10-22 17:32:23.336115: Current DB state:
-2022-10-22 17:32:23.362407: date: 2022-10-22 10:32:10, value: 0JXQutCw0YLQtdGA0LjQvdCwNzc3Ok9FRHdma3Fh
+2022-10-22 17:48:52.673723: Current DB state:
+2022-10-22 17:48:52.708982: date: 2022-10-22 10:48:46, value: aW5wdXQ3Nzc6TXdtZVZqbHA=
 
-2022-10-22 17:32:23.363407: date: 2022-10-22 10:32:23, value: 0YLQtdGB0YLQvtCy0L7QtTc3NzpXbWR2cW9rTA==
+2022-10-22 17:48:52.709358: date: 2022-10-22 10:48:52, value: 0JXQutCw0YLQtdGA0LjQvdCwNzc3OmVVR2ZXYnlZ
+
+2022-10-22 17:48:59.860968: User provided input: ¬ходные данные
+2022-10-22 17:49:00.608365: Got from rest endpoint: ¬ходные данные777
+2022-10-22 17:49:00.698930: Got from soap endpoint: 0JLRhdC+0LTQvdGL0LUg0LTQsNC90L3Ri9C1Nzc3OmFjU3JkUVht
+
+2022-10-22 17:49:01.045656: Current DB state:
+2022-10-22 17:49:01.069055: date: 2022-10-22 10:48:46, value: aW5wdXQ3Nzc6TXdtZVZqbHA=
+
+2022-10-22 17:49:01.069989: date: 2022-10-22 10:48:52, value: 0JXQutCw0YLQtdGA0LjQvdCwNzc3OmVVR2ZXYnlZ
+
+2022-10-22 17:49:01.071985: date: 2022-10-22 10:49:01, value: 0JLRhdC+0LTQvdGL0LUg0LTQsNC90L3Ri9C1Nzc3OmFjU3JkUVht
 

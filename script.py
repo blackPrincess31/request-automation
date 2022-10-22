@@ -85,6 +85,8 @@ def send_soap_request(user_text):
 
 
 user_text = input("Input base text: ")
+log(f"User provided input: {user_text}")
+
 result_rest = send_rest_request(user_text)
 result_soap = send_soap_request(result_rest)
 insert_db(result_soap)
