@@ -1,0 +1,14 @@
+2022-10-22 17:32:09.585915: Got from rest endpoint: Екатерина777
+2022-10-22 17:32:09.713985: Got from soap endpoint: 0JXQutCw0YLQtdGA0LjQvdCwNzc3Ok9FRHdma3Fh
+
+2022-10-22 17:32:10.305914: Current DB state:
+2022-10-22 17:32:10.346005: date: 2022-10-22 10:32:10, value: 0JXQutCw0YLQtdGA0LjQvdCwNzc3Ok9FRHdma3Fh
+
+2022-10-22 17:32:22.928989: Got from rest endpoint: тестовое777
+2022-10-22 17:32:23.017946: Got from soap endpoint: 0YLQtdGB0YLQvtCy0L7QtTc3NzpXbWR2cW9rTA==
+
+2022-10-22 17:32:23.336115: Current DB state:
+2022-10-22 17:32:23.362407: date: 2022-10-22 10:32:10, value: 0JXQutCw0YLQtdGA0LjQvdCwNzc3Ok9FRHdma3Fh
+
+2022-10-22 17:32:23.363407: date: 2022-10-22 10:32:23, value: 0YLQtdGB0YLQvtCy0L7QtTc3NzpXbWR2cW9rTA==
+
